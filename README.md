@@ -1,4 +1,5 @@
-#📋 Booking Management System (BMS) for Car Licensing Services
+# 📋 Booking Management System (BMS) for Car Licensing Services
+
 This Python project simulates a booking management system for car licensing services, designed for educational purposes. The system allows users to register and log in with secure password validation, book services across available days and time slots, and view statistical insights.
 
 🔧 Features:
